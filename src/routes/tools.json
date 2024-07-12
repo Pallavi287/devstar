@@ -106,6 +106,33 @@
             }
         ]
     },
+    "document-generator": {
+        "name": "Document Generator",
+        "link": "/document-generator",
+        "description": "Document generator enables users to create dynamic documents with headers , paragraphs and images .Users can customize text (font size, family , boldness , alignment) and highlight headers . Export option includes PDF and DOC formats using jsPDF and docx , with file-saver for downloads",
+        "contributors": [
+            {
+                "name": "Karan Rajkumar Jain",
+                "githubId": "karanjain09"
+            },
+            {
+                "name": "Asmita Agre",
+                "githubId": "Asmitaagre46"
+            },
+            {
+                "name": "Maimuna Khatoon",
+                "githubId": "maimuna01"
+            },
+            {
+                "name": "Vankadari Naga Pallavi",
+                "githubId": "Pallavi287"
+            },
+            {
+                "name": "Rajendra Kumar ",
+                "githubId": "rajendrakumar360"
+            }
+        ]
+    },
     "file-converter": {
         "name": "File Converter",
         "link": "/file-converter",
@@ -117,9 +144,9 @@
             }
         ]
     },
-    "gradient-generator": {
+    "Gradient-generator": {
         "name": "Gradient Generator",
-        "link": "/gradient-generator",
+        "link": "/Gradient-generator",
         "description": "The Gradient Generator is a tool for Developers which allows you to create Gradient between 2 Colors and Copy its CSS Output.",
         "contributors": [
             {
